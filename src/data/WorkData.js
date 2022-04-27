@@ -37,6 +37,16 @@ export const Work = [
         github:"https://github.com/GeTtygreen/CRYPTO-APP"
        
     },
+    {
+        id:5,
+        name:"GoogleDocs/CLONE",
+        description:"(for EDU purposes only).This app is fully functional , it is an full stack application. UI stores sessions and allows users to edit ,create, update and retrieve DOCs that are created within the app. It was a blast to create . The special feature created is the TEXT-EDITOR",
+        tags:["React","TailwindCSS","NEXTauth","NEXTjs","FireBase","Draftjs"],
+        
+        demo:"https://crypto-app-eeulu9j8r-gettygreen.vercel.app/",
+        github:"https://github.com/GeTtygreen/CRYPTO-APP"
+       
+    },
     
   
 ] 
